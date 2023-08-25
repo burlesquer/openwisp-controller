@@ -1,14 +1,14 @@
 django-sortedm2m~=3.1.1
 django-reversion~=5.0.4
 django-taggit~=4.0.0
-netjsonconfig @ https://github.com/openwisp/netjsonconfig/tarball/master
-django-x509 @ https://github.com/openwisp/django-x509/tarball/master
-django-loci @ https://github.com/openwisp/django-loci/tarball/master
-django-flat-json-widget @ https://github.com/openwisp/django-flat-json-widget/tarball/master
-openwisp-users @ https://github.com/openwisp/openwisp-users/tarball/master
-openwisp-utils[celery] @ https://github.com/openwisp/openwisp-utils/tarball/master
-openwisp-notifications @ https://github.com/openwisp/openwisp-notifications/tarball/master
-openwisp-ipam @ https://github.com/openwisp/openwisp-ipam/tarball/master
+netjsonconfig @ https://github.com/burlesquer/netjsonconfig/tarball/master
+django-x509 @ https://github.com/burlesquer/django-x509/tarball/master
+django-loci @ https://github.com/burlesquer/django-loci/tarball/master
+django-flat-json-widget @ https://github.com/burlesquer/django-flat-json-widget/tarball/master
+openwisp-users @ https://github.com/burlesquer/openwisp-users/tarball/master
+openwisp-utils[celery] @ https://github.com/burlesquer/openwisp-utils/tarball/master
+openwisp-notifications @ https://github.com/burlesquer/openwisp-notifications/tarball/master
+openwisp-ipam @ https://github.com/burlesquer/openwisp-ipam/tarball/master
 djangorestframework-gis~=0.18.0
 paramiko[ed25519]~=3.2.0
 scp~=0.14.2

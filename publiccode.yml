@@ -4,7 +4,7 @@
 
 publiccodeYmlVersion: '0.3'
 name: OpenWISP Controller
-url: 'https://github.com/openwisp/openwisp-controller'
+url: 'https://github.com/burlesquer/openwisp-controller'
 developmentStatus: stable
 platforms:
   - linux
